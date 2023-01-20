@@ -1,0 +1,9 @@
+using UnityEngine;
+using System;
+
+    #ROOTNAMESPACEBEGIN#
+public interface #SCRIPTNAME#
+{
+    #NOTRIM#
+}
+#ROOTNAMESPACEEND#
